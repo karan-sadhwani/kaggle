@@ -1,3 +1,4 @@
 
 .venv
 house_prices/.venv/*
+nn/ .venv/*
