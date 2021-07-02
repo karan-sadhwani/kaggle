@@ -1,0 +1,8 @@
+numpy
+pandas
+pylint
+pandas-profiling[notebook,html]
+lightgbm
+sklearn
+seaborn
+
